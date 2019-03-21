@@ -1,5 +1,5 @@
 # MPASSid development
 
 
-Easy way to follow status of development in all repositories is waffle.io https://waffle.io/mpassid/development 
+Documentation moved to: https://wiki.eduuni.fi/display/CSCMPAS/
 
